@@ -1,7 +1,7 @@
 
 # Customer's response prediction
 
-This is a program that makes binary classification prediction of customer's response based on superstore data. Machine learning models used in this program are Support Vector Machine, Decision Tree Classifier, and Logistic Regression as these models are considered the best for binary classification problems. Also, the program uses Python libraries such as Scikit-learn, Pandas, Numpy, Matplotlib, and Seaboen. 
+This is a program that makes binary classification prediction of customer's response based on superstore data. Machine learning models used in this program are Support Vector Machine, Decision Tree Classifier, and Logistic Regression as these models are considered the best for binary classification problems. Also, the program uses Python libraries such as Scikit-learn, Pandas, Numpy, Matplotlib, and Seaborn. 
 # Hi, I'm Cyprian! 👋
 
 
